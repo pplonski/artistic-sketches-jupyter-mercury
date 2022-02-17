@@ -14,3 +14,13 @@ The appliction is running on Heroku at address [https://sketch-app-mercury.herok
 
 - Mercury framework code at [GitHub](https://github.com/mljar/mercury)
 - Mercury [website](https://mljar.com/mercury)
+
+## 🚀 Demo
+
+#### App overview showing two notebooks (with and without code)
+
+![](https://github.com/pplonski/artistic-sketches-jupyter-mercury/blob/main/media/mercury_demo.gif)
+
+#### App running with created file download
+
+![](https://github.com/pplonski/artistic-sketches-jupyter-mercury/blob/main/media/mercury_demo_2.gif)
