@@ -2,3 +2,4 @@ mljar-mercury
 opencv-python
 pillow
 matplotlib
+opencv-python-headless
