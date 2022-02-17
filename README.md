@@ -1,6 +1,6 @@
 # 👋 Sketch app created with Mercury
 
-This sketch web application was built with Jupyter Notebook and [Mercury](https://github.com/mljar/mercury) framework.
+This sketch web application was built with [Mercury](https://github.com/mljar/mercury) framework and Jupyter Notebook.
 
 Mercury allows you to convert your notebooks into web apps by adding YAML header. Based on YAML the widgets are generated for notebook.
 
