@@ -1,6 +1,8 @@
 # 👋 Sketch app created with Mercury
 
-This sketch web application was built with Jupyter Notebook and Mercury framework.
+![](https://raw.githubusercontent.com/pplonski/artistic-sketches-jupyter-mercury/main/media/mercury_computer_vision_app_banner.png)
+
+This sketch web application was built with [Mercury](https://github.com/mljar/mercury) framework and Jupyter Notebook.
 
 Mercury allows you to convert your notebooks into web apps by adding YAML header. Based on YAML the widgets are generated for notebook.
 
@@ -14,3 +16,13 @@ The appliction is running on Heroku at address [https://sketch-app-mercury.herok
 
 - Mercury framework code at [GitHub](https://github.com/mljar/mercury)
 - Mercury [website](https://mljar.com/mercury)
+
+## 🚀 Demo
+
+#### App overview showing two notebooks (with and without code)
+
+![](https://github.com/pplonski/artistic-sketches-jupyter-mercury/blob/main/media/mercury_demo.gif)
+
+#### App running with created file download
+
+![](https://github.com/pplonski/artistic-sketches-jupyter-mercury/blob/main/media/mercury_demo_2.gif)
